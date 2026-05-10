@@ -1,5 +1,13 @@
 # ContinuityOS: Healthcare Information System Integration Brief
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Project-FF8200?style=for-the-badge&logo=vercel&logoColor=white)](https://continuityos-ehr-integration-brief.vercel.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koripickle1101-TN/continuityos-ehr-integration-brief)
+
+## Live Project
+
+**View the live dashboard:**  
+https://continuityos-ehr-integration-brief.vercel.app/
+
 A simulated healthcare information systems recommendation project created by **Kori Pickle** from a patient-to-professional perspective.
 
 ## Project Purpose
